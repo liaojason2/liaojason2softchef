@@ -1,6 +1,6 @@
-### I'm Jason Liao, an IoT Engineer Intern in @SoftChef.
+### I'm Jason Liao, an IoT Engineer Intern in [@SoftChef](https://github.com/softchef).
 
-- **@liaojason2** - My personal GitHub account.
+- **[@liaojason2](https://github.com/liaojason2)** - My personal GitHub account.
 - 👯 I’m can collaborate on
   - Develop API with API Gateway and AWS services.
   - Define AWS resources in AWS CDK.
