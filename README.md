@@ -10,7 +10,7 @@
   - Unit Test with jest library.
   - Teamwork with colleague.
 
-### GitHub Status
+### GitHub tatus
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaojason2softchef&count_private=true&show_icons=true&theme=radical)
 
 <!--
